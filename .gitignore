@@ -1,0 +1,5 @@
+build/
+dist/
+try.spec
+*.log
+*.txt
