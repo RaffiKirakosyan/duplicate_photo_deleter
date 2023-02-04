@@ -1,4 +1,5 @@
 ## Duplicate photo deleter
+*vesion 0.1.0*
 
 This instruction is for deleting many repeating photos that you can make in a different process, like photoshoots or recovering files with some file-recovering software
 
